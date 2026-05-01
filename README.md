@@ -5,6 +5,11 @@ This project demonstrates the use of SQL to analyze student performance data and
 
 ---
 
+## 🎯 Problem Statement
+The goal of this project is to analyze student performance data to identify trends and factors affecting academic outcomes using SQL.
+
+---
+
 ## 📊 Dataset
 The dataset contains information on student performance, including:
 - Math, reading, and writing scores  
